@@ -7,3 +7,9 @@
 // let stateNum = "aaaa";
 // state = Boolean(stateNum)
 // console.log(state)
+
+// console.log(1+2+"3")
+// console.log("1"+2+9+8)
+// console.log(+true)
+// console.log(+"")
+
